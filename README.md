@@ -63,19 +63,69 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+---
 
-🎓 Soy estudiante de **Ingeniería de Software en la ESPE**, apasionado por el desarrollo de soluciones tecnológicas modernas, escalables y eficientes.
+<h2 align="center">Sobre mí</h2>
 
-💻 Tengo conocimientos en desarrollo **Full Stack**, participando en todas las etapas del ciclo de vida del software: análisis, diseño, backend, frontend, aplicaciones móviles, bases de datos, pruebas y despliegue.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Construyendo+soluciones+Full+Stack;Integrando+Inteligencia+Artificial;Desarrollando+aplicaciones+web+y+m%C3%B3viles;Aprendiendo+y+mejorando+constantemente"
+    alt="Áreas profesionales de Brandon Fonseca"
+  />
+</p>
 
-🤖 Cuento con conocimientos en **Inteligencia Artificial**, integración de modelos de IA, automatización de procesos, análisis de información y desarrollo de herramientas inteligentes.
+<p align="center">
+  Soy estudiante de <strong>Ingeniería de Software en la ESPE</strong>, enfocado en el desarrollo
+  de aplicaciones modernas, escalables y orientadas a resolver problemas reales.
+</p>
 
-🚀 Trabajo con tecnologías como **Java, Python, Spring Boot, FastAPI, Flutter, React, Node.js, TypeScript, Laravel, Docker y PostgreSQL**.
+<br>
 
-🌱 Me mantengo actualizado con las **nuevas tecnologías, frameworks y tendencias del desarrollo de software y la Inteligencia Artificial**, buscando aprender continuamente y aplicar nuevas herramientas en mis proyectos.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-🤝 Disfruto resolver problemas, enfrentar nuevos desafíos y colaborar en proyectos innovadores que generen un impacto positivo.
+### Perfil profesional
+
+Me desarrollo como **Full Stack Developer**, trabajando tanto en la lógica del backend como en la creación de interfaces web y móviles.
+
+Tengo experiencia construyendo **APIs REST**, gestionando bases de datos, diseñando arquitecturas de software y desplegando aplicaciones mediante contenedores.
+
+También aplico conocimientos de **Inteligencia Artificial** para integrar modelos, automatizar procesos y desarrollar herramientas inteligentes.
+
+</td>
+    <td width="50%" valign="top">
+
+### Enfoque actual
+
+- Desarrollo Full Stack
+- Aplicaciones web y móviles
+- Integración de Inteligencia Artificial
+- Arquitecturas de microservicios
+- APIs REST y servicios backend
+- Bases de datos SQL y NoSQL
+- Docker, despliegue y automatización
+- Buenas prácticas y calidad de software
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-6D28D9?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/Inteligencia%20Artificial-Integración-2563EB?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligencia Artificial"/>
+  <img src="https://img.shields.io/badge/Backend-APIs%20REST-059669?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend y APIs REST"/>
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Desarrollo móvil con Flutter"/>
+</p>
+
+<p align="center">
+  Me mantengo actualizado con nuevas tecnologías, frameworks y tendencias de desarrollo,
+  buscando aplicar cada aprendizaje en proyectos reales y soluciones innovadoras.
+</p>
+
+---
 
 ---
 
