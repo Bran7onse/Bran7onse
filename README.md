@@ -6,45 +6,53 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Bran7onse">
-    <img
-      src="https://img.shields.io/badge/GitHub-Bran7onse-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub de Brandon Fonseca"
-    />
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/brandon-fonseca-543848174/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Brandon%20Fonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn de Brandon Fonseca"
-    />
-  </a>
-
-  <a href="mailto:fonsecabrandon365@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Correo de Brandon Fonseca"
-    />
-  </a>
-</p>
-
-<p align="center">
+<a href="https://github.com/Bran7onse">
   <img
-    src="https://img.shields.io/github/followers/Bran7onse?label=Seguidores&style=for-the-badge&logo=github&color=6C3CE9"
-    alt="Seguidores en GitHub"
+    src="https://img.shields.io/badge/GitHub-Bran7onse-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub de Brandon Fonseca"
   />
+</a>
 
+<a href="https://www.linkedin.com/in/brandon-fonseca-543848174/">
   <img
-    src="https://img.shields.io/badge/Ubicación-Ecuador-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"
-    alt="Ubicación Ecuador"
+    src="https://img.shields.io/badge/LinkedIn-Brandon%20Fonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn de Brandon Fonseca"
   />
+</a>
 
+<a href="mailto:fonsecabrandon365@gmail.com">
   <img
-    src="https://img.shields.io/badge/Disponible-Para%20colaborar-22C55E?style=for-the-badge"
-    alt="Disponible para colaborar"
+    src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Correo de Brandon Fonseca"
   />
-</p>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/github/followers/Bran7onse?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=6C3CE9"
+  alt="Seguidores en GitHub"
+/>
+
+<img
+  src="https://img.shields.io/badge/Ubicación-Ecuador-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"
+  alt="Ubicación Ecuador"
+/>
+
+<img
+  src="https://img.shields.io/badge/Disponible-Para%20colaborar-22C55E?style=for-the-badge"
+  alt="Disponible para colaborar"
+/>
+
+</div>
+
+<br>
 
 <p align="center">
   <img
@@ -79,7 +87,6 @@
     src="./profile/stats.svg"
     alt="Estadísticas de GitHub de Brandon Fonseca"
   />
-
   <img
     width="49%"
     src="./profile/top-langs.svg"
@@ -92,6 +99,18 @@
     width="70%"
     src="./profile/streak.svg"
     alt="Racha de contribuciones de Brandon Fonseca"
+  />
+</p>
+
+---
+
+## 📈 Actividad en GitHub
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Bran7onse&theme=dracula&hide_border=true&area=true"
+    alt="Gráfico de actividad de Brandon Fonseca"
   />
 </p>
 
@@ -122,7 +141,7 @@
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap&perline=4"
-    alt="Tecnologías frontend y móvil"
+    alt="Tecnologías frontend y desarrollo móvil"
   />
 </p>
 
@@ -148,26 +167,15 @@
 
 ## 🚀 Áreas de especialización
 
-<table align="center">
-  <tr>
-    <td align="center">💻<br><strong>Full Stack</strong></td>
-    <td align="center">🤖<br><strong>Inteligencia Artificial</strong></td>
-    <td align="center">⚙️<br><strong>Backend</strong></td>
-    <td align="center">🎨<br><strong>Frontend</strong></td>
-  </tr>
-  <tr>
-    <td align="center">📱<br><strong>Aplicaciones móviles</strong></td>
-    <td align="center">🔗<br><strong>APIs REST</strong></td>
-    <td align="center">🏗️<br><strong>Microservicios</strong></td>
-    <td align="center">🐳<br><strong>Docker</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🗄️<br><strong>Bases de datos</strong></td>
-    <td align="center">☁️<br><strong>Cloud Computing</strong></td>
-    <td align="center">🔐<br><strong>Seguridad</strong></td>
-    <td align="center">🚀<br><strong>Despliegue</strong></td>
-  </tr>
-</table>
+<div align="center">
+
+| Área | Área | Área | Área |
+|---|---|---|---|
+| 💻 **Full Stack** | 🤖 **Inteligencia Artificial** | ⚙️ **Backend** | 🎨 **Frontend** |
+| 📱 **Aplicaciones móviles** | 🔗 **APIs REST** | 🏗️ **Microservicios** | 🐳 **Docker** |
+| 🗄️ **Bases de datos** | ☁️ **Cloud Computing** | 🔐 **Seguridad** | 🚀 **Despliegue** |
+
+</div>
 
 ---
 
@@ -186,8 +194,6 @@
 
 ## 🌱 En constante aprendizaje
 
-Actualmente continúo fortaleciendo mis conocimientos en:
-
 - 🤖 Inteligencia Artificial y modelos generativos
 - 🧠 Machine Learning
 - 🏗️ Arquitecturas de microservicios
@@ -204,53 +210,43 @@ Actualmente continúo fortaleciendo mis conocimientos en:
 ## 🐍 Contribuciones
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      width="100%"
-      src="./profile/github-contribution-grid-snake.svg"
-      alt="Animación de contribuciones de Brandon Fonseca"
-    />
-  </picture>
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/Bran7onse/Bran7onse/main/profile/github-contribution-grid-snake-dark.svg"
+    alt="Animación de contribuciones de Brandon Fonseca"
+  />
 </p>
 
 ---
 
 ## 📫 Conecta conmigo
 
-<p align="center">
-  <a href="mailto:fonsecabrandon365@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Correo-fonsecabrandon365%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Correo electrónico"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Bran7onse">
-    <img
-      src="https://img.shields.io/badge/GitHub-Bran7onse-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+<a href="mailto:fonsecabrandon365@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Correo-fonsecabrandon365%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Correo electrónico"
+  />
+</a>
 
-  <a href="https://www.linkedin.com/in/brandon-fonseca-543848174/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Brandon%20Fonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-</p>
+<br><br>
+
+<a href="https://github.com/Bran7onse">
+  <img
+    src="https://img.shields.io/badge/GitHub-Bran7onse-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/brandon-fonseca-543848174/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Brandon%20Fonseca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+</div>
 
 ---
 
