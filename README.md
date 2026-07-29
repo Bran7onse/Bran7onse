@@ -52,19 +52,28 @@
 # 📊 Estadísticas de GitHub
 
 <p align="center">
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/Bran7onse/Bran7onse/main/profile/stats.svg"
+    alt="Estadísticas de GitHub"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bran7onse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bran7onse&layout=compact&theme=dracula"/>
-
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/Bran7onse/Bran7onse/main/profile/top-langs.svg"
+    alt="Lenguajes más utilizados"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Bran7onse&theme=dracula"/>
-
+  <img
+    width="70%"
+    src="https://raw.githubusercontent.com/Bran7onse/Bran7onse/main/profile/streak.svg"
+    alt="Racha de contribuciones"
+  />
 </p>
 
+---
 ---
 
 # 📈 Actividad
@@ -72,16 +81,6 @@
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bran7onse&theme=dracula&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Logros de GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bran7onse&theme=dracula&no-frame=true&no-bg=true&margin-w=12"/>
 
 </p>
 
@@ -115,10 +114,25 @@
 # 🐍 Contribuciones
 
 <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Bran7onse/Bran7onse/main/profile/github-contribution-grid-snake-dark.svg"
+    />
 
-<img src="https://raw.githubusercontent.com/Bran7onse/Bran7onse/output/github-contribution-grid-snake.svg"/>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Bran7onse/Bran7onse/main/profile/github-contribution-grid-snake.svg"
+    />
 
+    <img
+      src="https://raw.githubusercontent.com/Bran7onse/Bran7onse/main/profile/github-contribution-grid-snake.svg"
+      alt="Animación de contribuciones de GitHub"
+    />
+  </picture>
 </p>
+
+---
 
 ---
 
